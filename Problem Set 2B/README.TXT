@@ -11,4 +11,7 @@ HOW TO START THIS PROJECT:
 AUTHORS: Jerry You
 USER INSTRUCTIONS:
 
-Consider Questions: OrderedPair = new OrderedPair(4.0,-5.0);
+Consider Questions: 
+OrderedPair = new OrderedPair(4.0,-5.0);
+It would have random numbers related to the reference that is stored in the heap.
+We would get the expected code
